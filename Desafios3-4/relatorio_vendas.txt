@@ -1,0 +1,6 @@
+=== RELATÓRIO DE VENDAS ===
+Cliente: Leticia M
+Produto: Plushie Vaporeon tam.1m - Qtd: 2
+Valor Final: R$ 600.00
+--------------------
+Total Geral: R$ 600.00
